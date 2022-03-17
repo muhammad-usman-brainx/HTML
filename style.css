@@ -1,0 +1,17 @@
+body{
+    background-image: url("https://www.ankitweblogic.com/html/html_img/exercise1/background.jpg");
+}
+.content{
+    text-align: center;
+}
+#link{
+    display: inline;
+}
+.images{
+    text-align:center;
+    margin-right: 10px;
+}
+
+.imagespace{
+    margin: 5px;
+}
